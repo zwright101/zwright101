@@ -34,8 +34,8 @@ Hey everyone, my name is Zach! I am currently enrolled in the Full Stack Softwar
 <p align="center">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E" height="22px"/>
     <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" height="22px"/>
-<!--     <img src="https://img.shields.io/badge/Redux-593D88?style=plastic&logo=redux&logoColor=white" height="22px"/> -->
-<!--     <img src="https://img.shields.io/badge/React_Router-CA4225?style=plastic&logo=react-router&logoColor=white" height="22px"/> -->
+    <img src="https://img.shields.io/badge/Redux-593D88?style=plastic&logo=redux&logoColor=white" height="22px"/>
+    <img src="https://img.shields.io/badge/React_Router-CA4225?style=plastic&logo=react-router&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Material--UI-0081CB?style=plastic&logo=material-ui&logoColor=white" height="22px"/> 
 </p>
 <!-- Backend Section !--> 
@@ -50,7 +50,7 @@ Hey everyone, my name is Zach! I am currently enrolled in the Full Stack Softwar
 <p align="center">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
-<!--   <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"> -->
+  <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
 </p>
 
