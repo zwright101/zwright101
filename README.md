@@ -19,7 +19,7 @@
 <h3 align="center">Full Stack Developer Student • Sports Enthusiast • Lover of Video Games and Comic Books </h3>
 <hr />
 <p align="center">  
-Hey everyone, my name is Zach! I am currently enrolled in the Full Stack Software Engineering course at Prime Digital Academy and will be graduating in the middle of December 2023. I am excited to begin a career as a Software Engineer and I look forward to having many opportunities in the near future to learn and grow in this community. Coding is quickly becoming one of my life's passions and I love learning more and more every single day!
+Hey everyone, my name is Zach! I am a Full Stack software engineer. I am excited to begin a career as a developer and I look forward to having many opportunities in the near future to learn and grow in this community. Coding is quickly becoming one of my life's passions and I love learning more and more every single day!
 </p>
 <hr />
 <!--------------------- Interests ---------------------->
